@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
 
   schedule:
-    # GitHub utiliza UTC. Se activa cada hora y después
-    # comprueba la hora exacta de España.
+    # GitHub ejecuta el cron en UTC.
+    # Se activa cada hora y se comprueba la hora española.
     - cron: "17 * * * 1-6"
 
 permissions:
@@ -62,25 +62,56 @@ jobs:
 
       - name: Crear RSS
         if: steps.horario.outputs.ejecutar == 'si'
-        run: python actualizar_rss.py
+        shell: bash
+        run: |
+          python actualizar_rss.py
+
+          echo "Archivos después de ejecutar Python:"
+          ls -la
+
+          if [ ! -f feed.xml ]; then
+            echo "ERROR: no se ha creado feed.xml"
+            exit 1
+          fi
+
+          if [ ! -s feed.xml ]; then
+            echo "ERROR: feed.xml está vacío"
+            exit 1
+          fi
+
+          echo "feed.xml creado correctamente"
 
       - name: Comprobar RSS
         if: steps.horario.outputs.ejecutar == 'si'
         run: |
-          test -s feed.xml
-
           python - <<'PY'
           import xml.etree.ElementTree as ET
+          from pathlib import Path
 
-          raiz = ET.parse("feed.xml").getroot()
+          archivo = Path("feed.xml")
+
+          if not archivo.exists():
+              raise SystemExit("ERROR: no existe feed.xml")
+
+          if archivo.stat().st_size == 0:
+              raise SystemExit("ERROR: feed.xml está vacío")
+
+          raiz = ET.parse(archivo).getroot()
           entradas = raiz.findall("./channel/item")
 
           print("RSS XML correcto.")
+          print(f"Tamaño: {archivo.stat().st_size} bytes")
           print(f"Entradas encontradas: {len(entradas)}")
 
           if entradas:
+              titulo = entradas[0].findtext("title")
               print("Primer título:")
-              print(entradas[0].findtext("title"))
+              print(titulo)
+          else:
+              print(
+                  "El RSS es válido, aunque todavía "
+                  "no contiene adjudicaciones."
+              )
           PY
 
       - name: Guardar RSS actualizado
@@ -93,7 +124,7 @@ jobs:
           git add feed.xml historial.json
 
           if git diff --cached --quiet; then
-            echo "Proceso correcto: no hay adjudicaciones nuevas."
+            echo "Proceso correcto: no hay cambios nuevos."
           else
             git commit -m "Actualizar adjudicaciones UE"
             git push
