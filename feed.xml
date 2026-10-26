@@ -5,7 +5,7 @@
     <link>https://ted.europa.eu/es/advanced-search</link>
     <description>Adjudicaciones publicadas en TED con fecha, adjudicatario e importe igual o superior a 500.000 euros.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 24 Oct 2026 20:52:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:09:25 +0000</lastBuildDate>
     <ttl>300</ttl>
     <atom:link href="https://raw.githubusercontent.com/plis2100/rss-adjudicaciones-ue-500000/main/feed.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -119,6 +119,16 @@
       <category>Más de 500.000 euros</category>
     </item>
     <item>
+      <title>ADJUDICADA UE | 09/10/2026 | GEOMATIKA d.o.o. (25623466485) / ACES d.o.o. (90505898082) / GEOMODELING d.o.o. (30364993041) / GEOPROJEKT d. d. (70978671801) / TRAFFICON d.o.o. (56055678342) | 13.233.800,76 € | Croacia – Servicios de agrimensura – Katastarska izmjera i izrada elaborata katastarske izmjere za više katastarskih općina temeljem Godišnjeg programa katastarskih izmjera građevinskih područja u 2026. godini</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/737397-2026</link>
+      <guid isPermaLink="false">27d2788e7a2222bdfc499fb3d5bd189dcfb0e69c183e0e539a329f3942cdfdf7</guid>
+      <pubDate>Fri, 09 Oct 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 09/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; GEOMATIKA d.o.o. (25623466485) / ACES d.o.o. (90505898082) / GEOMODELING d.o.o. (30364993041) / GEOPROJEKT d. d. (70978671801) / TRAFFICON d.o.o. (56055678342)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 13.233.800,76 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Croacia – Servicios de agrimensura – Katastarska izmjera i izrada elaborata katastarske izmjere za više katastarskih općina temeljem Godišnjeg programa katastarskih izmjera građevinskih područja u 2026. godini&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 737397-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; DRŽAVNA GEODETSKA UPRAVA&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; HRV&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/737397-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
       <title>ADJUDICADA UE | 08/10/2026 | INTEGRA GROUP d.o.o. (74242216047) | 998.936,00 € | Croacia – Servicios de sistemas y apoyo – Usluge održavanja infrastrukture ICT sustava Državne geodetske uprave</title>
       <link>https://ted.europa.eu/es/notice/-/detail/707724-2026</link>
       <guid isPermaLink="false">5ece05fc9e5e6716879dee5c9dd8d7a0d825f64c8d70e922727912d15d0e412a</guid>
@@ -134,6 +144,26 @@
       <guid isPermaLink="false">00ee5bda5af95cfdb862a46c151ad9ec2111a9531ea74d0b9ee262c2be47404f</guid>
       <pubDate>Thu, 08 Oct 2026 02:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 08/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; ROCK (424 731 750 00057)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 600.000,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Francia – Sal para carreteras – Marché pour la Fourniture et livraison de sel de déneigement&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 727083-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Communauté d&amp;#x27; Agglomération de Lens Lievin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; FRA&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/727083-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
+      <title>ADJUDICADA UE | 08/10/2026 | KZ ANTIOKSID d.o.o. (58773375636) / S.A.K.Z. d.o.o. (93579863093) | 1.374.000,00 € | Croacia – Servicios técnicos de protección contra la corrosión – Antikorozivna zaštita u hidroelektranama</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/740030-2026</link>
+      <guid isPermaLink="false">6f24f7541c6f9652b66506104d1c82e6e9d0c5d5dc2e8005eccffdd4a804555f</guid>
+      <pubDate>Thu, 08 Oct 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 08/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; KZ ANTIOKSID d.o.o. (58773375636) / S.A.K.Z. d.o.o. (93579863093)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 1.374.000,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Croacia – Servicios técnicos de protección contra la corrosión – Antikorozivna zaštita u hidroelektranama&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 740030-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; HEP-Proizvodnja d.o.o.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; HRV&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/740030-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
+      <title>ADJUDICADA UE | 08/10/2026 | SERMATEC SARL (LU 20862610) | 1.130.818,58 € | Luxemburgo – Vehículos de lucha contra incendios – Fourniture d’un total de six (6) pompes à hauts débits sur remorque et berce</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/737381-2026</link>
+      <guid isPermaLink="false">d5e714c9e6935321451a785da053e144c8f8029485d6844fa026946107c4ebfe</guid>
+      <pubDate>Thu, 08 Oct 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 08/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; SERMATEC SARL (LU 20862610)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 1.130.818,58 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Luxemburgo – Vehículos de lucha contra incendios – Fourniture d’un total de six (6) pompes à hauts débits sur remorque et berce&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 737381-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Corps Grand-Ducal d&amp;#x27;Incendie et de Secours&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; LUX&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/737381-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
       <category>ADJUDICADA UE</category>
       <category>Contratación pública</category>
       <category>Más de 500.000 euros</category>
@@ -609,6 +639,16 @@
       <category>Más de 500.000 euros</category>
     </item>
     <item>
+      <title>ADJUDICADA UE | 24/09/2026 | Gestión de Proyectos de Informática y Comunicaciones, S.L. (B91798256) | 596.849,00 € | España – Servicios de mantenimiento de sistemas – Servicio de Mantenimiento de la Infraestructura de Almacenamiento en Disco Open 11 y 12 de la plataforma de Sistemas Abiertos con destino a la AEAT</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/736408-2026</link>
+      <guid isPermaLink="false">19601b7ced0c45441c939c8fc4cb9243e9ed698c557225a9fe0945a67b99151c</guid>
+      <pubDate>Thu, 24 Sep 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 24/09/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; Gestión de Proyectos de Informática y Comunicaciones, S.L. (B91798256)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 596.849,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; España – Servicios de mantenimiento de sistemas – Servicio de Mantenimiento de la Infraestructura de Almacenamiento en Disco Open 11 y 12 de la plataforma de Sistemas Abiertos con destino a la AEAT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 736408-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Dirección del Servicio de Gestión Económica de la Agencia Estatal de la Administración Tributaria&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; ESP&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/736408-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
       <title>ADJUDICADA UE | 23/09/2026 | Bayer Oy (1703777-4) | 630.000,00 € | Finlandia – Equipamiento y artículos médicos, farmacéuticos y de higiene personal – HP203/26 Medrad automaattiruiskujen kulutustarvikkeet</title>
       <link>https://ted.europa.eu/es/notice/-/detail/716396-2026</link>
       <guid isPermaLink="false">c9c013e970465f9600ba6a6a93aae479305fcc7c7aaee122e1e7b17208f3985f</guid>
@@ -849,6 +889,16 @@
       <category>Más de 500.000 euros</category>
     </item>
     <item>
+      <title>ADJUDICADA UE | 21/09/2026 | KOMOP d.o.o. (37322381288) / HIDRAULIKA KURELJA d.o.o. (79147056526) / GRADATIN d.o.o. (30929005951) / PK d. o. o. (34604587904) / O-K-TEH d.o.o. (07930503403) | 723.600,00 € | Croacia – Repuestos para vehículos de transporte de mercancías, camionetas y automóviles – Rezervni dijelovi, popravak i servis nadogradnja marke FAUN, HIAB, SM-16, FARID, PALFINGER i STUMMER</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/737559-2026</link>
+      <guid isPermaLink="false">3208351d7cf609a8671e069dcde4203d37cb585b3a4248a0ff4205a362cc3e3b</guid>
+      <pubDate>Mon, 21 Sep 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 21/09/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; KOMOP d.o.o. (37322381288) / HIDRAULIKA KURELJA d.o.o. (79147056526) / GRADATIN d.o.o. (30929005951) / PK d. o. o. (34604587904) / O-K-TEH d.o.o. (07930503403)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 723.600,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Croacia – Repuestos para vehículos de transporte de mercancías, camionetas y automóviles – Rezervni dijelovi, popravak i servis nadogradnja marke FAUN, HIAB, SM-16, FARID, PALFINGER i STUMMER&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 737559-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; VG Čistoća d.o.o.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; HRV&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/737559-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
       <title>ADJUDICADA UE | 21/09/2026 | Masters in Public B.V. (90517199) | 500.080,00 € | Países Bajos – Servicios de suministro de personal, incluido personal temporal – Senior Adviseur Transformatie &amp; Contracten Waarderingen/ Taxaties - cluster SO</title>
       <link>https://ted.europa.eu/es/notice/-/detail/654863-2026</link>
       <guid isPermaLink="false">a4b19ffe7eac178f59db335b88e4411837adf0eb34d14a644d8343690aeb579a</guid>
@@ -964,6 +1014,16 @@
       <guid isPermaLink="false">5d895204e887b897d28bea983b1719b8ba4688b7dc88400d9b7510d466af8246</guid>
       <pubDate>Thu, 17 Sep 2026 02:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 17/09/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; HEGENSCHEIDT-MFD GmbH (DE300719124)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 1.291.850,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Alemania – Tornos – Lieferung, Einbau und Inbetriebnahme einer Unterflurradsatzdrehmaschine für meterspurige Straßenbahnfahrzeuge&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 699227-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Jenaer Nahverkehr GmbH&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; DEU&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/699227-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
+      <title>ADJUDICADA UE | 17/09/2026 | COX ENERGIA COMERCIALIZADORA ESPAÑA, S.L.U. (B87166435) | 4.178.580,78 € | España – Electricidad, calefacción, energías solar y nuclear – La construcción, puesta en condiciones de funcionamiento, legalización de las instalaciones necesarias para la producción y suministro de energía solar en el término municipal de Cox. Los servicios de suministro de energía solar generada por las referidas instalaciones durante todo el periodo de vigencia del contrato, así como el suministro de energía 100%.</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/736857-2026</link>
+      <guid isPermaLink="false">c5966ac91bd3bd334ad69380d00f6895c4b6372d75294851a55e844198e9e45d</guid>
+      <pubDate>Thu, 17 Sep 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 17/09/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; COX ENERGIA COMERCIALIZADORA ESPAÑA, S.L.U. (B87166435)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 4.178.580,78 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; España – Electricidad, calefacción, energías solar y nuclear – La construcción, puesta en condiciones de funcionamiento, legalización de las instalaciones necesarias para la producción y suministro de energía solar en el término municipal de Cox. Los servicios de suministro de energía solar generada por las referidas instalaciones durante todo el periodo de vigencia del contrato, así como el suministro de energía 100%.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 736857-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Junta de Gobierno del Ayuntamiento de Cox&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; ESP&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/736857-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
       <category>ADJUDICADA UE</category>
       <category>Contratación pública</category>
       <category>Más de 500.000 euros</category>
@@ -1649,6 +1709,16 @@
       <category>Más de 500.000 euros</category>
     </item>
     <item>
+      <title>ADJUDICADA UE | 07/09/2026 | House of Empathy coöperatie U.A. (96247584) / Relevance Learning B.V. (11068560) / Group Moovs B.V. (28066374) / Tele'Train Education II B.V. (34130472) | 6.500.000,00 € | Países Bajos – Servicios de formación – Maatwerkleerinterventies</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/741007-2026</link>
+      <guid isPermaLink="false">6a905ef38460ddd3ca50e6d11bd9fe1c9c3317aca7f33c5f4dccae7b69828910</guid>
+      <pubDate>Mon, 07 Sep 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 07/09/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; House of Empathy coöperatie U.A. (96247584) / Relevance Learning B.V. (11068560) / Group Moovs B.V. (28066374) / Tele&amp;#x27;Train Education II B.V. (34130472)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 6.500.000,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Países Bajos – Servicios de formación – Maatwerkleerinterventies&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 741007-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Rijkswaterstaat Corporate Dienst&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; NLD&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/741007-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
       <title>ADJUDICADA UE | 07/09/2026 | PREZERO PORTUGAL, S.A. (503307483) | 6.418.306,24 € | Portugal – Servicios de transporte de desperdicios – Concurso Público com Publicidade Internacional para a Prestação de Serviços de Transporte e Deposição em Aterro de Escórias produzidas na Central de Valorização Energética</title>
       <link>https://ted.europa.eu/es/notice/-/detail/669916-2026</link>
       <guid isPermaLink="false">555e81769b1645706d2d640a0a3f323d7d694b26c38f4b22c60f712c3ce79fd6</guid>
@@ -1859,6 +1929,16 @@
       <category>Más de 500.000 euros</category>
     </item>
     <item>
+      <title>ADJUDICADA UE | 03/09/2026 | O'Connor Sutton Cronin_19870 (138329) | 1.616.260,00 € | Irlanda – Servicios de consultoría en diseño – 9870 - Connolly Depot Refurbishment MDC Consultancy Services</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/736910-2026</link>
+      <guid isPermaLink="false">af462ce2659f8d465619b42b18cbfe6526c97d9ca392275efc92377ec66131ae</guid>
+      <pubDate>Thu, 03 Sep 2026 01:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 03/09/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; O&amp;#x27;Connor Sutton Cronin_19870 (138329)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 1.616.260,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Irlanda – Servicios de consultoría en diseño – 9870 - Connolly Depot Refurbishment MDC Consultancy Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 736910-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Iarnród Eireann-Irish Rail&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; IRL&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/736910-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
       <title>ADJUDICADA UE | 02/09/2026 | TVORNICA KRUHA ZADAR d.d. (02359254184) / MARIKOMERC, d.o.o. (07179054100) / AGRO MALEŠ d.o.o. (23355358614) / LEDO plus d.o.o. (90373162012) / MAREX-GEL, d.o.o. (55787564902) | 1.000.000,00 € | Croacia – Alimentos, bebidas, tabaco y productos afines – Razni prehrambeni proizvodi</title>
       <link>https://ted.europa.eu/es/notice/-/detail/662213-2026</link>
       <guid isPermaLink="false">3f50de93051853acd5d63d381bce12ce0b4d27e5b3bb205ae55aff8b66984d55</guid>
@@ -1964,6 +2044,16 @@
       <guid isPermaLink="false">25c3e7e75f2baa110eb41ad28a60e58168e26d0360ce6169a860da879dda827c</guid>
       <pubDate>Wed, 02 Sep 2026 02:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 02/09/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; Bird Control Italy S.r.l. (05605080489)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 2.251.232,32 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Italia – Servicios de preservación de la vida silvestre – Procedura aperta per l’affidamento dell’appalto del servizio elativo al monitoraggio ed allontanamento volatili e avifauna presso gli Aeroporti di Milano Linate e Milano Malpensa&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 735131-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Società per Azioni Esercizi Aeroportuali SEA&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; ITA&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/735131-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
+      <title>ADJUDICADA UE | 02/09/2026 | Klarsicht GmbH (DE134777418) / LiL Service GmbH (DE364981006) | 1.515.764,64 € | Alemania – Servicios de limpieza – Externe Reinigungsleistungen des rbz steinburg</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/736465-2026</link>
+      <guid isPermaLink="false">cbd83c87a67c04e4fc4e7f00b6193bf1a64579187a1870241b6bd2aaef9f57bd</guid>
+      <pubDate>Wed, 02 Sep 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 02/09/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; Klarsicht GmbH (DE134777418) / LiL Service GmbH (DE364981006)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 1.515.764,64 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Alemania – Servicios de limpieza – Externe Reinigungsleistungen des rbz steinburg&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 736465-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Regionales Berufsbildungszentrum&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; DEU&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/736465-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
       <category>ADJUDICADA UE</category>
       <category>Contratación pública</category>
       <category>Más de 500.000 euros</category>
@@ -2759,6 +2849,16 @@
       <category>Más de 500.000 euros</category>
     </item>
     <item>
+      <title>ADJUDICADA UE | 12/08/2026 | LADISA SRL (05282230720) | 1.137.500,00 € | Italia – Servicios de suministro de comidas para escuelas – Procedura aperta sopra-soglia comunitaria per l’affidamento del SERVIZIO DI RISTORAZIONE SCOLASTICA A RIDOTTO IMPATTO AMBIENTALE periodo dal 01/09/2026 al 31/08/2030 ed eventuale proroga per il triennio 01/09/2030- 31/08/2033 – COMUNE DI SAN GILLIO</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/737494-2026</link>
+      <guid isPermaLink="false">3de133dcb77cf95107710fe102a7ebb2cccc73c2afbb39b537f020f19e73ea9b</guid>
+      <pubDate>Wed, 12 Aug 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 12/08/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; LADISA SRL (05282230720)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 1.137.500,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Italia – Servicios de suministro de comidas para escuelas – Procedura aperta sopra-soglia comunitaria per l’affidamento del SERVIZIO DI RISTORAZIONE SCOLASTICA A RIDOTTO IMPATTO AMBIENTALE periodo dal 01/09/2026 al 31/08/2030 ed eventuale proroga per il triennio 01/09/2030- 31/08/2033 – COMUNE DI SAN GILLIO&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 737494-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; C.U.C. Unione Montana di Comuni delle Valli di Lanzo, Ceronda e Casternone&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; ITA&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/737494-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
       <title>ADJUDICADA UE | 12/08/2026 | Conor Phelan Construction Limited (625332) | 1.220.064,72 € | Irlanda – Trabajos de construcción de inmuebles – WCCC25 161 Tramore Water Activity Centre</title>
       <link>https://ted.europa.eu/es/notice/-/detail/692317-2026</link>
       <guid isPermaLink="false">43b71d8f4f8768127078487eea3f63f45002775732ac58da93774c74197ca280</guid>
@@ -3169,6 +3269,16 @@
       <category>Más de 500.000 euros</category>
     </item>
     <item>
+      <title>ADJUDICADA UE | 28/07/2026 | DYNAMIQUE SOLAIRE INGENIERIE (94078607200014) | 2.000.000,00 € | Francia – Servicios de reparación y mantenimiento de equipos eléctricos de edificios – 25SERV18 - ACCORD-CADRE A BONS DE COMMANDE DE PRESTATIONS D'ENTRETIEN ET DE MAINTENANCE DES PANNEAUX PHOTOVOLTAÏQUES DU PATRIMOINE BATI ET NON BATI AVEC AMELIORATIONS PONCTUELLES PRESENT ET A VENIR GERE PAR LA METROPOLE TOULON PROVENCE MEDITERRANEE</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/740011-2026</link>
+      <guid isPermaLink="false">40d44fbf36be4f2e0d16ccb9b23aa6c9515986e7fda056bff894c44d543cad59</guid>
+      <pubDate>Tue, 28 Jul 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 28/07/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; DYNAMIQUE SOLAIRE INGENIERIE (94078607200014)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 2.000.000,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Francia – Servicios de reparación y mantenimiento de equipos eléctricos de edificios – 25SERV18 - ACCORD-CADRE A BONS DE COMMANDE DE PRESTATIONS D&amp;#x27;ENTRETIEN ET DE MAINTENANCE DES PANNEAUX PHOTOVOLTAÏQUES DU PATRIMOINE BATI ET NON BATI AVEC AMELIORATIONS PONCTUELLES PRESENT ET A VENIR GERE PAR LA METROPOLE TOULON PROVENCE MEDITERRANEE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 740011-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Metropole Toulon-Provence-Mediterranee&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; FRA&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/740011-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
       <title>ADJUDICADA UE | 28/07/2026 | Loon-, maai- en grondwerken J. Bouw BV (71365850) | 500.000,00 € | Países Bajos – Servicios de limpieza y eliminación de hielo – Gladheidsbestrijding 2026 ev. gemeente Nuenen</title>
       <link>https://ted.europa.eu/es/notice/-/detail/673138-2026</link>
       <guid isPermaLink="false">8d595a068c172fa32682c658cca56f1bf6f4096681f7dba41ffed8d78b38b1e5</guid>
@@ -3194,6 +3304,16 @@
       <guid isPermaLink="false">66ff08213f958ffb93dcd87cd9f15ece0370fec821ab79cc76e66f22b252b96e</guid>
       <pubDate>Mon, 27 Jul 2026 03:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 27/07/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; ΕΛΕΚΤΑ ΜΟΝ.ΕΠΕ (095029193)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 62.800.000,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Grecia – Aparatos de grabación o reproducción de vídeo – ΕΚΑΠΥ ΤΑ 1/2024 ΙΑΤΡΟΤΕΧΝΟΛΟΓΙΚΟΣ ΕΞΟΠΛΙΣΜΟΣ&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 710450-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; ΕΘΝΙΚΗ ΚΕΝΤΡΙΚΗ ΑΡΧΗ ΠΡΟΜΗΘΕΙΩΝ ΥΓΕΙΑΣ&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; GRC&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/710450-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
+      <title>ADJUDICADA UE | 27/07/2026 | MINISTRY OF INTERIOR (DE192609124) / Austrian Red Cross (PIC 999833709) / ESCOLA NACIONAL DE BOMBEIROS (PIC 932906716) / THW (PIC 861697949) / APELL NATIONAL CENTER FOR DISASTER MANAGEMENT FOUNDATION (IT01943490027) | 16.557.452,63 € | Bélgica – Servicios de formación en materia de salud y primeros auxilios – EU MODEX Cycle 13 - Exercises on Civil Protection Modules, Other Response Capacities, European Union Civil Protection Teams and Technical Assistance and Support Teams</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/737850-2026</link>
+      <guid isPermaLink="false">00404898a48bfae9a460a6f4bfb52eecd62b5d5fdf6bf4c3ce79f1e1d0ca0791</guid>
+      <pubDate>Mon, 27 Jul 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 27/07/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; MINISTRY OF INTERIOR (DE192609124) / Austrian Red Cross (PIC 999833709) / ESCOLA NACIONAL DE BOMBEIROS (PIC 932906716) / THW (PIC 861697949) / APELL NATIONAL CENTER FOR DISASTER MANAGEMENT FOUNDATION (IT01943490027)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 16.557.452,63 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Bélgica – Servicios de formación en materia de salud y primeros auxilios – EU MODEX Cycle 13 - Exercises on Civil Protection Modules, Other Response Capacities, European Union Civil Protection Teams and Technical Assistance and Support Teams&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 737850-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; European Commission, DG ECHO - European Civil Protection and Humanitarian Aid Operations (ECHO)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; BEL&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/737850-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
       <category>ADJUDICADA UE</category>
       <category>Contratación pública</category>
       <category>Más de 500.000 euros</category>
@@ -3534,6 +3654,16 @@
       <guid isPermaLink="false">3ddf27819731b3bd96d8dbbcfa042bf0080081e4ab0b83a33ab747acd5e6d2a1</guid>
       <pubDate>Fri, 10 Jul 2026 02:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 10/07/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; SAS ATILA 33 et SAS SNAA ACCHINI (833 956 204 00014 et 341 369 726 00052) / SAS COBALTO (900 094 152 00031) / SAS CILC SUD OUEST (48451171200032) / SAS ETANDEX (306 896 374 00254) / SAS ETABLISSEMENT CANCE (097 280 234 00218)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 5.943.270,24 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Francia – Trabajos de construcción – Travaux de réhabilitation du groupe scolaire Albert Camus&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 687677-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Mairie de Talence&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; FRA&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/687677-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
+      <title>ADJUDICADA UE | 10/07/2026 | Gladheidbestrijding Mainport Rotterdam (24353449) | 837.175,00 € | Países Bajos – Servicios de limpieza y eliminación de hielo – Uitvoering gladheidsbestrijding havengebied Amsterdam</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/740179-2026</link>
+      <guid isPermaLink="false">afa307b6747ad23013e70cb0a561c9218473d49771c7097d5678c2b8d772edd2</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 10/07/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; Gladheidbestrijding Mainport Rotterdam (24353449)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 837.175,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Países Bajos – Servicios de limpieza y eliminación de hielo – Uitvoering gladheidsbestrijding havengebied Amsterdam&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 740179-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Havenbedrijf Amsterdam N.V.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; NLD&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/740179-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
       <category>ADJUDICADA UE</category>
       <category>Contratación pública</category>
       <category>Más de 500.000 euros</category>
@@ -4694,6 +4824,16 @@
       <guid isPermaLink="false">4256beeb2c64152e65db04fc3e597ee883416138f45c05c553ca14a0ffe55716</guid>
       <pubDate>Wed, 29 Oct 2025 01:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 29/10/2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; Sana Società Cooperativa Sociale (08805500967)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 81.582.761,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Italia – Servicios de asistencia social – RAFFORZAMENTO DEL SERVIZIO SOCIALE PROFESSIONALE PER LA VALUTAZIONE MULTIDIMENSIONALE, LA PRESA IN CARICO E L’ATTIVAZIONE DI INTERVENTI DI INCLUSIONE DEI BENEFICIARI DELL’ASSEGNO DI INCLUSIONE E DEGLI INDIVIDUI E NUCLEI FAMILIARI IN CONDIZIONE SOCIO-ECONOMICA SIMILARE DELL’AMBITO DI BERGAMO&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 734748-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; COMUNE DI BERGAMO&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; ITA&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/734748-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
+      <title>ADJUDICADA UE | 23/10/2025 | FARID INDUSTRIE SPA (06500530016) / OMB TECHNOLOGY SPA (03609770981) / A.M.S. SPA ATTREZZATURE MECCANICHE SPECIALI UNIPERSONALE (00609840483) | 11.877.400,00 € | Italia – Vehículos compactadores de basuras – (87/2024) Procedura aperta telematica, ai sensi dell'art. 71 del D.Lgs. 36/2023, con aggiudicazione secondo il criterio dell'offerta economicamente più vantaggiosa, ai sensi dell'art. 108, comma 2 del D.Lgs. n. 36/2023, suddivisa in 8 lotti, per la scelta del contraente a cui affidare, mediante accordo quadro con un unico operatore economico ai sensi del'lart. 59, comma 3 del D.Lgs. 36/2023, la fo</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/741108-2026</link>
+      <guid isPermaLink="false">94978c9884c267e2fab0e746346d45152eba702f22506afb006dec6ab9c70fbf</guid>
+      <pubDate>Thu, 23 Oct 2025 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 23/10/2025&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; FARID INDUSTRIE SPA (06500530016) / OMB TECHNOLOGY SPA (03609770981) / A.M.S. SPA ATTREZZATURE MECCANICHE SPECIALI UNIPERSONALE (00609840483)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 11.877.400,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Italia – Vehículos compactadores de basuras – (87/2024) Procedura aperta telematica, ai sensi dell&amp;#x27;art. 71 del D.Lgs. 36/2023, con aggiudicazione secondo il criterio dell&amp;#x27;offerta economicamente più vantaggiosa, ai sensi dell&amp;#x27;art. 108, comma 2 del D.Lgs. n. 36/2023, suddivisa in 8 lotti, per la scelta del contraente a cui affidare, mediante accordo quadro con un unico operatore economico ai sensi del&amp;#x27;lart. 59, comma 3 del D.Lgs. 36/2023, la fo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 741108-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Gare Amiu Genova&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; ITA&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/741108-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
       <category>ADJUDICADA UE</category>
       <category>Contratación pública</category>
       <category>Más de 500.000 euros</category>
