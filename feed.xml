@@ -5,7 +5,7 @@
     <link>https://ted.europa.eu/es/advanced-search</link>
     <description>Adjudicaciones publicadas en TED con fecha, adjudicatario e importe igual o superior a 500.000 euros.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 21:01:44 +0000</lastBuildDate>
     <ttl>300</ttl>
     <atom:link href="https://raw.githubusercontent.com/plis2100/rss-adjudicaciones-ue-500000/main/feed.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -429,6 +429,16 @@
       <category>Más de 500.000 euros</category>
     </item>
     <item>
+      <title>ADJUDICADA UE | 07/10/2026 | CLARANET II SOLUTIONS, S.A. (510728189) | 1.628.377,35 € | Portugal – Servicios de suministro de software – serviços para renovação do contrato de software Microsoft para o Município do Barreiro que inclui as Escolas Básicas 1º Ciclo e para os Serv Municipalizados dos Transportes Coletivos do Barreiro SMTCB</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/758567-2026</link>
+      <guid isPermaLink="false">2f59ff752172dca09d3200867dfa2b5425f2c0496e37cadb20bb40b229f563e4</guid>
+      <pubDate>Wed, 07 Oct 2026 01:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 07/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; CLARANET II SOLUTIONS, S.A. (510728189)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 1.628.377,35 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Portugal – Servicios de suministro de software – serviços para renovação do contrato de software Microsoft para o Município do Barreiro que inclui as Escolas Básicas 1º Ciclo e para os Serv Municipalizados dos Transportes Coletivos do Barreiro SMTCB&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 758567-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Município do Barreiro&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; PRT&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/758567-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
       <title>ADJUDICADA UE | 06/10/2026 | LINSINGER Maschinenbau - Gesellschaft m.b.H. (d7673069-c680-4c75-bf99-028d2bcf1905) | 4.125.680,00 € | Alemania – Equipo de instrumentación y control – Messgerät für Quer- und Längsprofile der Eisenbahnschienen</title>
       <link>https://ted.europa.eu/es/notice/-/detail/692119-2026</link>
       <guid isPermaLink="false">21484ec5bb494893444fd118145ae3e6266ead9c0ae3e25c21b4381e1a1b210a</guid>
@@ -554,6 +564,16 @@
       <guid isPermaLink="false">ea541b2dabc7028299252168b3ce208b827a712bddcfee3e04596559d7b3882e</guid>
       <pubDate>Mon, 05 Oct 2026 02:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 05/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; SIA &amp;quot;Alexela&amp;quot; (40103752971)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 539.372,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Letonia – Electricidad – Elektroenerģijas piegāde&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 751273-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Sabiedrība ar ierobežotu atbildību &amp;quot;Jūrmalas gaisma&amp;quot;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; LVA&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/751273-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
+      <title>ADJUDICADA UE | 05/10/2026 | LAU Infra Grupa AS (40003356530) / Sabiedrība ar ierobežotu atbildību "HAGBERG" (40103233073) / SIA "Bauskas novada komunālserviss" (43603011586) / IK "Arkādijs Makruzovs" (43602011786) | 844.501,88 € | Letonia – Servicios de limpieza y eliminación de nieve – Ielu un ceļu ziemas uzturēšanas darbi Bauskas, Vecumnieku, Iecavas un Rundāles apvienību pārvalžu teritorijās</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/758512-2026</link>
+      <guid isPermaLink="false">c0e16dc46a7f4a5ea6d861eb7963adc6bc40edaf7706cf1ad3d2995b1cafd211</guid>
+      <pubDate>Mon, 05 Oct 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 05/10/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; LAU Infra Grupa AS (40003356530) / Sabiedrība ar ierobežotu atbildību &amp;quot;HAGBERG&amp;quot; (40103233073) / SIA &amp;quot;Bauskas novada komunālserviss&amp;quot; (43603011586) / IK &amp;quot;Arkādijs Makruzovs&amp;quot; (43602011786)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 844.501,88 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Letonia – Servicios de limpieza y eliminación de nieve – Ielu un ceļu ziemas uzturēšanas darbi Bauskas, Vecumnieku, Iecavas un Rundāles apvienību pārvalžu teritorijās&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 758512-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Bauskas novada pašvaldība&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; LVA&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/758512-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
       <category>ADJUDICADA UE</category>
       <category>Contratación pública</category>
       <category>Más de 500.000 euros</category>
@@ -829,6 +849,16 @@
       <category>Más de 500.000 euros</category>
     </item>
     <item>
+      <title>ADJUDICADA UE | 29/09/2026 | TAMAR LAS ARENAS SA (A48239305) | 605.572,58 € | España – Servicios de restaurante y de suministro de comidas – Servicio de Restauración en el Centro de Control de Tránsito Aéreo de Madrid</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/758815-2026</link>
+      <guid isPermaLink="false">04be4e1597a31235b49509fa174763874b550bc3def9fb0bc856a934aee6f5e7</guid>
+      <pubDate>Tue, 29 Sep 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 29/09/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; TAMAR LAS ARENAS SA (A48239305)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 605.572,58 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; España – Servicios de restaurante y de suministro de comidas – Servicio de Restauración en el Centro de Control de Tránsito Aéreo de Madrid&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 758815-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Dirección Económico-Financiera de ENAIRE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; ESP&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/758815-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
       <title>ADJUDICADA UE | 28/09/2026 | GRB Rostock GmbH (DE283190847) | 1.077.575,59 € | Alemania – Trabajos de retirada de amianto – Schadstoffsanierung</title>
       <link>https://ted.europa.eu/es/notice/-/detail/669274-2026</link>
       <guid isPermaLink="false">559de55256bab9f1059ec012d70716211b1e87cd49fc4055a9d832c1175d9ac5</guid>
@@ -924,6 +954,16 @@
       <guid isPermaLink="false">c30c23cf3f215b83a88cc318066327b15e286ab738b7de1a769184bff1240a3e</guid>
       <pubDate>Mon, 28 Sep 2026 02:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 28/09/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; EQUANS Services (0402947797_1e1a4e96-9d15-4f0e-97d8-807899c5fc35)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 3.099.001,07 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Bélgica – Servicios de inspección técnica de estructuras de ingeniería – Antwerpen - Ring Center - Technisch beheer exploitatie en onderhoud met TW van de technische installaties voor 9 jaar (vanaf het 6de jaar is het te allen tijde opzegbaar)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 755296-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Regie der Gebouwen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; BEL&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/755296-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
+      <title>ADJUDICADA UE | 28/09/2026 | OKTAL PHARMA d.o.o. (76981693625) / MEDIKA, d.d. (04492664153) / B. Braun Adria d.o.o. (52275049572) / SONIMED d.o.o. (30750621355) / MEDICAL INTERTRADE d.o.o. (94818858923) | 8.999.804,00 € | Croacia – Productos farmacéuticos – Ostali lijekovi (koji nisu uključeni u kategorije pod rednim brojem 1. i 17.) - XVII - zajednička nabava</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/758373-2026</link>
+      <guid isPermaLink="false">11897a117641dfdde60f863f3cbab4be175aadee13b7f71f513bf98fc7d1776c</guid>
+      <pubDate>Mon, 28 Sep 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 28/09/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; OKTAL PHARMA d.o.o. (76981693625) / MEDIKA, d.d. (04492664153) / B. Braun Adria d.o.o. (52275049572) / SONIMED d.o.o. (30750621355) / MEDICAL INTERTRADE d.o.o. (94818858923)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 8.999.804,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Croacia – Productos farmacéuticos – Ostali lijekovi (koji nisu uključeni u kategorije pod rednim brojem 1. i 17.) - XVII - zajednička nabava&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 758373-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Klinički bolnički centar Zagreb / Klinički bolnički centar Osijek / Klinički bolnički centar Rijeka / KLINIČKI BOLNIČKI CENTAR SPLIT / Klinički bolnički centar Sestre milosrdnice / KB Dubrava / Klinička bolnica Merkur / KLINIKA ZA INFEKTIVNE BOLESTI DR. FRAN MIHALJEVIĆ / KLINIKA ZA ORTOPEDIJU LOVRAN / KLINIČKA BOLNICA SVETI DUH / Nacionalna memorijalna bolnica &amp;quot;Dr. Juraj Njavro&amp;quot; Vukovar / OPĆA BOLNICA DR. IVO PEDIŠIĆ SISAK / Klinika za psihijatriju Vrapče / OPĆA BOLNICA KARLOVAC / Opća bolnica Varaždin / OPĆA BOLNICA DR. TOMISLAV BARDEK KOPRIVNICA / Opća bolnica &amp;quot;Dr. Anđelko Višić&amp;quot; Bjelovar / OPĆA BOLNICA VIROVITICA / KLINIKA ZA DJEČJE BOLESTI ZAGREB / OPĆA BOLNICA ZADAR / OŽB NAŠICE / OPĆA BOLNICA ŠIBENSKO-KNINSKE ŽUPANIJE / Opća bolnica Pula - Ospedale Generale di Pola / OPĆA BOLNICA DUBROVNIK / Opća bolnica Zabok i bolnica hrvatskih veterana / OPĆA I VETERANSKA BOLNICA &amp;quot;HRVATSKI PONOS&amp;quot; KNIN / OPĆA ŽUPANIJSKA BOLNICA VINKOVCI / OPĆA ŽUPANIJSKA BOLNICA POŽEGA / Opća bolnica Dr. Josip Benčević Slavonski Brod / Županijska bolnica Čakovec / NEUROPSIHIJATRIJSKA BOLNICA DR. IVAN BARBOT POPOVAČA / OPĆA BOLNICA NOVA GRADIŠKA / OPĆA BOLNICA GOSPIĆ / Opća županijska bolnica Pakrac i bolnica hrvatskih veterana / Opća bolnica i bolnica branitelja domovinskog rata Ogulin / Specijalna bolnica za plućne bolesti&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; HRV&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/758373-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
       <category>ADJUDICADA UE</category>
       <category>Contratación pública</category>
       <category>Más de 500.000 euros</category>
@@ -3159,6 +3199,16 @@
       <category>Más de 500.000 euros</category>
     </item>
     <item>
+      <title>ADJUDICADA UE | 26/08/2026 | ALDEAS INFANTILES SOS DE ESPAÑA (G28821254) | 608.193,41 € | España – Servicios de bienestar social proporcionados a niños y jóvenes – Servicio de Día para menores en situación de vulnerabilidad social, ubicado en el distrito de Anaga, en el municipio de Santa Cruz de Tenerife</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/758658-2026</link>
+      <guid isPermaLink="false">82fe2de81ef82e60e56b316131c17d794c8edb314c83442b7f1727cddc54f20e</guid>
+      <pubDate>Wed, 26 Aug 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 26/08/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; ALDEAS INFANTILES SOS DE ESPAÑA (G28821254)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 608.193,41 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; España – Servicios de bienestar social proporcionados a niños y jóvenes – Servicio de Día para menores en situación de vulnerabilidad social, ubicado en el distrito de Anaga, en el municipio de Santa Cruz de Tenerife&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 758658-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Junta de Gobierno del Ayuntamiento de Santa Cruz de Tenerife&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; ESP&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/758658-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
       <title>ADJUDICADA UE | 26/08/2026 | Imprensa Nacional-Casa da Moeda, S. A. (INCM) (500792887) | 648.312,45 € | Portugal – Servicios de limpieza – Aquisição de serviços de acompanhamento das atividades físicas desportivas e de limpeza das instalações desportivas geridas pelos Serviços de Desporto das Ilhas do Corvo, do Faial, de São Jorge, de São Miguel e da Terceira</title>
       <link>https://ted.europa.eu/es/notice/-/detail/705292-2026</link>
       <guid isPermaLink="false">10c2c83fec88cb7a6de476a3c0d8bf61bd49605b115fae19c92cbcd11bbefdcf</guid>
@@ -4199,6 +4249,16 @@
       <category>Más de 500.000 euros</category>
     </item>
     <item>
+      <title>ADJUDICADA UE | 24/07/2026 | C9 COSTRUZIONI Srl (00513230243) / CONSORZIO STABILE ODOS Srl (03809940236) / Amir Costruzioni S.r.l. (01782310229) / Gruppo Adige Bitumi S.p.A. (00613760248) / Edilizia Wipptal S.p.A. (00197290216) | 9.305.531,39 € | Italia – Trabajos de mantenimiento de carreteras – accordo quadro relativo a lavori di ordinaria manutenzione per il risanamento di opere d’arte lungo il Nastro A22</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/758425-2026</link>
+      <guid isPermaLink="false">051071f23f7cb1a8804766473f655b268fd1aabd288c266f73343d51389e30be</guid>
+      <pubDate>Fri, 24 Jul 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 24/07/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; C9 COSTRUZIONI Srl (00513230243) / CONSORZIO STABILE ODOS Srl (03809940236) / Amir Costruzioni S.r.l. (01782310229) / Gruppo Adige Bitumi S.p.A. (00613760248) / Edilizia Wipptal S.p.A. (00197290216)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 9.305.531,39 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Italia – Trabajos de mantenimiento de carreteras – accordo quadro relativo a lavori di ordinaria manutenzione per il risanamento di opere d’arte lungo il Nastro A22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 758425-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Autostrada del Brennero S.p.A.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; ITA&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/758425-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
       <title>ADJUDICADA UE | 23/07/2026 | ZENITA GROUP SPA (05032840968) | 535.950,00 € | Italia – Sistema inalámbrico de telecomunicaciones – Procedura telematica aperta per l'affidamento della fornitura di apparati per il rinnovo dell'infrastruttura WIFI dell’Università degli Studi di Genova</title>
       <link>https://ted.europa.eu/es/notice/-/detail/646414-2026</link>
       <guid isPermaLink="false">30cf583c302c18a7998ea6b82a6dbaa5b68642e9010074214577d9b5fc0fae7a</guid>
@@ -4344,6 +4404,16 @@
       <guid isPermaLink="false">01a08b54a6c3161c3ab68a0ab910ee398bfa66a516a268959419d2bbea024b97</guid>
       <pubDate>Mon, 20 Jul 2026 02:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 20/07/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; CONSORZIO LAVORO AMBIENTE SOCIETA&amp;#x27; COOPERATIVA (00638070227)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 2.738.577,20 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Italia – Servicios de bibliotecas, archivos, museos y otros servicios culturales – SERVIZIO DI ACCOGLIENZA, SORVEGLIANZA, ASSISTENZA AL PUBBLICO, VISITE GUIDATE E DIDATTICA NEI MUSEI CIVICI E IN STRUTTURE DESTINATE AD EVENTI CULTURALI DEL COMUNE DI BOLZANO - DURATA 3 ANNI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 742176-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Gemeinde Bozen - 7 - Abteilung für Kultur / Comune di Bolzano - 7 - Ripartizione Servizi Culturali&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; ITA&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/742176-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
+      <category>ADJUDICADA UE</category>
+      <category>Contratación pública</category>
+      <category>Más de 500.000 euros</category>
+    </item>
+    <item>
+      <title>ADJUDICADA UE | 20/07/2026 | Govers Salaris Consultancy B.V. (55823793) | 1.713.293,00 € | Países Bajos – Servicios de gestión de nóminas – Outsourcing salaris administratie</title>
+      <link>https://ted.europa.eu/es/notice/-/detail/758691-2026</link>
+      <guid isPermaLink="false">d7446935d455f37a33c013b4810cc2d0ee62cae091eac2057ba9749ca2656ef2</guid>
+      <pubDate>Mon, 20 Jul 2026 02:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 20/07/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; Govers Salaris Consultancy B.V. (55823793)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 1.713.293,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Países Bajos – Servicios de gestión de nóminas – Outsourcing salaris administratie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 758691-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Hoogheemraadschap van Delfland&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; NLD&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/758691-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
       <category>ADJUDICADA UE</category>
       <category>Contratación pública</category>
       <category>Más de 500.000 euros</category>
@@ -4934,76 +5004,6 @@
       <guid isPermaLink="false">bcacce42d97754776c1ab4ad35b983ef4a9fa05ea9e8fa64f41aa2102fc3d891</guid>
       <pubDate>Thu, 18 Jun 2026 01:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 18/06/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; GENERIS - FARMACÊUTICA, S.A (508107997) / Overpharma, Lda (505792362) / SANDOZ FARMACÊUTICA, LDA (506985261) / LABORATÓRIOS EXPANSCIENCE - PRODUTOS DE HIGIENE, SOCIEDADE UNIPESSOAL, LDA (500686904) / FERRAZ, LYNCE, ESPECIALIDADES FARMACÊUTICAS, S.A. (500113270)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 43.382.620,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Portugal – Medicamentos diversos – Aquisição de Medicamentos para os Sistemas Locomotor e Cardiovascular&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 643591-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Santa Casa da Misericórdia de Lisboa&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; PRT&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/643591-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ADJUDICADA UE</category>
-      <category>Contratación pública</category>
-      <category>Más de 500.000 euros</category>
-    </item>
-    <item>
-      <title>ADJUDICADA UE | 17/06/2026 | Luoto Company Oy (2870271-7) / Webscale Oy (3127930-7) / Kodan Oy (FI26421823) / Reto Oy (2562359-7) / CGI Suomi Oy (3415531-8) | 12.500.000,00 € | Finlandia – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Yleisradio Oy - IT-konsultointi 2023-2028 (DPS) - Data-asiantuntijoiden hankinta sovellus- ja ohjelmistokehityspalvelut</title>
-      <link>https://ted.europa.eu/es/notice/-/detail/715560-2026</link>
-      <guid isPermaLink="false">22514f93c7ba218037c5b11ad5514248cfb137cf82a4dad89b6a7a39ffc6b5fe</guid>
-      <pubDate>Wed, 17 Jun 2026 03:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 17/06/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; Luoto Company Oy (2870271-7) / Webscale Oy (3127930-7) / Kodan Oy (FI26421823) / Reto Oy (2562359-7) / CGI Suomi Oy (3415531-8)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 12.500.000,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Finlandia – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Yleisradio Oy - IT-konsultointi 2023-2028 (DPS) - Data-asiantuntijoiden hankinta sovellus- ja ohjelmistokehityspalvelut&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 715560-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Hansel Oy / Yleisradio Oy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; FIN&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/715560-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ADJUDICADA UE</category>
-      <category>Contratación pública</category>
-      <category>Más de 500.000 euros</category>
-    </item>
-    <item>
-      <title>ADJUDICADA UE | 16/06/2026 | UTE XESTUR SAN CIBRAO (U93761120) | 9.069.519,79 € | España – Trabajos de construcción de tuberías, líneas de comunicación y líneas de conducción eléctrica, de autopistas, carreteras, aeródromos y vías férreas; trabajos de explanación – Contratación de las obras del proyecto de urbanización de la modificación del plan parcial SUR I2-I3-I4 del PGOM de San Cibrao das Viñas (Ourense)</title>
-      <link>https://ted.europa.eu/es/notice/-/detail/654214-2026</link>
-      <guid isPermaLink="false">235aff22d02cbe5107c5f7717e39c37d021de2315f55c834f905decf91ea6f34</guid>
-      <pubDate>Tue, 16 Jun 2026 02:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 16/06/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; UTE XESTUR SAN CIBRAO (U93761120)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 9.069.519,79 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; España – Trabajos de construcción de tuberías, líneas de comunicación y líneas de conducción eléctrica, de autopistas, carreteras, aeródromos y vías férreas; trabajos de explanación – Contratación de las obras del proyecto de urbanización de la modificación del plan parcial SUR I2-I3-I4 del PGOM de San Cibrao das Viñas (Ourense)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 654214-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Xestión do Solo de Galicia S.A.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; ESP&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/654214-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ADJUDICADA UE</category>
-      <category>Contratación pública</category>
-      <category>Más de 500.000 euros</category>
-    </item>
-    <item>
-      <title>ADJUDICADA UE | 16/06/2026 | MOTIVA SCS (05338190019) | 1.803.899,05 € | Italia – Servicios de salud y asistencia social – AFFIDAMENTO AD UN ENTE ATTUATORE DEI SERVIZI RICHIESTI DAL D.M. 18/11/2019 PER IL SISTEMA DI ACCOGLIENZA E INTEGRAZIONE – SAI – PROG 587-PR-4 CON FINANZIAMENTO FNPSA – DAL 01/07/2026 AL 31/12/2028 (30 MESI).</title>
-      <link>https://ted.europa.eu/es/notice/-/detail/697738-2026</link>
-      <guid isPermaLink="false">903768659206842f6e36aacbc63e1bcde14ef8a0d24d4b9def69dbc10730d671</guid>
-      <pubDate>Tue, 16 Jun 2026 02:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 16/06/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; MOTIVA SCS (05338190019)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 1.803.899,05 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Italia – Servicios de salud y asistencia social – AFFIDAMENTO AD UN ENTE ATTUATORE DEI SERVIZI RICHIESTI DAL D.M. 18/11/2019 PER IL SISTEMA DI ACCOGLIENZA E INTEGRAZIONE – SAI – PROG 587-PR-4 CON FINANZIAMENTO FNPSA – DAL 01/07/2026 AL 31/12/2028 (30 MESI).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 697738-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; CENTRALE UNICA DI COMMITENZA UNIONE MONTANA VALLE SUSA PER CONTO DEL COMUNE DI AVIGLIANA&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; ITA&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/697738-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ADJUDICADA UE</category>
-      <category>Contratación pública</category>
-      <category>Más de 500.000 euros</category>
-    </item>
-    <item>
-      <title>ADJUDICADA UE | 16/06/2026 | EURO&amp;PROMOS FM S.P.A. (02458660301) | 982.794,15 € | Italia – Servicios de manipulación de la carga – SERVIZIO DI RICEZIONE E MOVIMENTAZIONE DEL MATERIALE BIBLIOGRAFICO DELLA BIBLIOTECA NAZIONALE CENTRALE DI ROMA E RELATIVO TRATTAMENTO AMMINISTRATIVO/GESTIONALE</title>
-      <link>https://ted.europa.eu/es/notice/-/detail/695543-2026</link>
-      <guid isPermaLink="false">841d4586814f41e65b9811eb52912c29a124ee9d12e62441fdd103582b89848a</guid>
-      <pubDate>Tue, 16 Jun 2026 02:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 16/06/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; EURO&amp;amp;PROMOS FM S.P.A. (02458660301)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 982.794,15 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Italia – Servicios de manipulación de la carga – SERVIZIO DI RICEZIONE E MOVIMENTAZIONE DEL MATERIALE BIBLIOGRAFICO DELLA BIBLIOTECA NAZIONALE CENTRALE DI ROMA E RELATIVO TRATTAMENTO AMMINISTRATIVO/GESTIONALE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 695543-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; BIBLIOTECA NAZIONALE CENTRALE DI ROMA&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; ITA&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/695543-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ADJUDICADA UE</category>
-      <category>Contratación pública</category>
-      <category>Más de 500.000 euros</category>
-    </item>
-    <item>
-      <title>ADJUDICADA UE | 16/06/2026 | SOPRA STERIA BELGIUM (BE0474817275) / FORWARD GLOBAL (BE0886439844) / PWC EU SERVICES (BE0872793825) / DELOITTE (BE0474429572) | 8.000.000,00 € | Polonia – Servicios de investigación y desarrollo y servicios de consultoría conexos – Provision of Research, Innovation and Engineering Assistance and Advisory Services</title>
-      <link>https://ted.europa.eu/es/notice/-/detail/695803-2026</link>
-      <guid isPermaLink="false">c53aaf83a9ef67331bc35daeba2d543793b68e7fe8e6a139ba2078607cc189a0</guid>
-      <pubDate>Tue, 16 Jun 2026 02:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 16/06/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; SOPRA STERIA BELGIUM (BE0474817275) / FORWARD GLOBAL (BE0886439844) / PWC EU SERVICES (BE0872793825) / DELOITTE (BE0474429572)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 8.000.000,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Polonia – Servicios de investigación y desarrollo y servicios de consultoría conexos – Provision of Research, Innovation and Engineering Assistance and Advisory Services&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 695803-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; European Border and Coast Guard Agency (FRONTEX)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; POL&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/695803-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ADJUDICADA UE</category>
-      <category>Contratación pública</category>
-      <category>Más de 500.000 euros</category>
-    </item>
-    <item>
-      <title>ADJUDICADA UE | 16/06/2026 | pbr planungs- und beratungsgesellschaft mbh (DE457047569) | 1.239.445,15 € | Alemania – Servicios de arquitectura, construcción, ingeniería e inspección – Neubau einer 2-zügigen Grundschule mit Erweiterungsmöglichkeit auf 4-Zügigkeit in der VG Rhein-Selz</title>
-      <link>https://ted.europa.eu/es/notice/-/detail/687775-2026</link>
-      <guid isPermaLink="false">b137e8733e34b447cbc07e7de3ba3287ce53a34a9573a63d6e1ca237fc1483f2</guid>
-      <pubDate>Tue, 16 Jun 2026 02:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 16/06/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; pbr planungs- und beratungsgesellschaft mbh (DE457047569)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 1.239.445,15 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Alemania – Servicios de arquitectura, construcción, ingeniería e inspección – Neubau einer 2-zügigen Grundschule mit Erweiterungsmöglichkeit auf 4-Zügigkeit in der VG Rhein-Selz&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 687775-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; Verbandsgemeinde Rhein-Selz&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; DEU&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/687775-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
-      <category>ADJUDICADA UE</category>
-      <category>Contratación pública</category>
-      <category>Más de 500.000 euros</category>
-    </item>
-    <item>
-      <title>ADJUDICADA UE | 16/06/2026 | SAS LEROY TP (38232894600027) | 850.000,00 € | Francia – Obras de saneamiento – Commune de FLEURBAIX (Département du Pas de Calais) Assainissement de la rue Charlet et Résidence la Pommeraie Rénovation du réseau d'eau potable dans la rue Charlet</title>
-      <link>https://ted.europa.eu/es/notice/-/detail/711380-2026</link>
-      <guid isPermaLink="false">c6f656c359bd40d5fdd6dd776446671433bd608b7d27faf6129506e55bccf88f</guid>
-      <pubDate>Tue, 16 Jun 2026 02:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Estado:&lt;/strong&gt; ADJUDICADA UE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Fecha de adjudicación:&lt;/strong&gt; 16/06/2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Adjudicatario:&lt;/strong&gt; SAS LEROY TP (38232894600027)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Importe adjudicado:&lt;/strong&gt; 850.000,00 €&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Objeto:&lt;/strong&gt; Francia – Obras de saneamiento – Commune de FLEURBAIX (Département du Pas de Calais) Assainissement de la rue Charlet et Résidence la Pommeraie Rénovation du réseau d&amp;#x27;eau potable dans la rue Charlet&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Número TED:&lt;/strong&gt; 711380-2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Organismo contratante:&lt;/strong&gt; NOREADE SIDEN-SIAN&lt;/p&gt;&lt;p&gt;&lt;strong&gt;País:&lt;/strong&gt; FRA&lt;/p&gt;&lt;p&gt;&lt;a href="https://ted.europa.eu/es/notice/-/detail/711380-2026"&gt;Abrir adjudicación oficial en TED&lt;/a&gt;&lt;/p&gt;</description>
       <category>ADJUDICADA UE</category>
       <category>Contratación pública</category>
       <category>Más de 500.000 euros</category>
