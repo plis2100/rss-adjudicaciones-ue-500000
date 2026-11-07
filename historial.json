@@ -12,6 +12,18 @@
     "objeto": "Austria – Servidores – Cisco"
   },
   {
+    "id": "4fc35f52315c9e3476c180f9ed79eea213dab5e68f542c6e33563f2ef11f99dc",
+    "numero": "772842-2026",
+    "titulo": "ADJUDICADA UE | 30/10/2026 | Servizi Diagnostici S.r.l. (07246691005) | 1.200.000,00 € | Italia – Sistemas de diagnóstico – FORNITURA IN NOLEGGIO DI UN SISTEMA DIAGNOSTICO COMPOSTO DA KIT E RELATIVA STRUMENTAZIONE PER LA DETERMINAZIONE DI UN PANNELLO DI ANTICORPI, ANTIGENI, ORMONI E ALTRI",
+    "url": "https://ted.europa.eu/es/notice/-/detail/772842-2026",
+    "descripcion": "<p><strong>Estado:</strong> ADJUDICADA UE</p><p><strong>Fecha de adjudicación:</strong> 30/10/2026</p><p><strong>Adjudicatario:</strong> Servizi Diagnostici S.r.l. (07246691005)</p><p><strong>Importe adjudicado:</strong> 1.200.000,00 €</p><p><strong>Objeto:</strong> Italia – Sistemas de diagnóstico – FORNITURA IN NOLEGGIO DI UN SISTEMA DIAGNOSTICO COMPOSTO DA KIT E RELATIVA STRUMENTAZIONE PER LA DETERMINAZIONE DI UN PANNELLO DI ANTICORPI, ANTIGENI, ORMONI E ALTRI</p><p><strong>Número TED:</strong> 772842-2026</p><p><strong>Organismo contratante:</strong> I.F.O.</p><p><strong>País:</strong> ITA</p><p><a href=\"https://ted.europa.eu/es/notice/-/detail/772842-2026\">Abrir adjudicación oficial en TED</a></p>",
+    "fecha_adjudicacion": "2026-10-30T02:00:00+01:00",
+    "fecha_publicacion": "2026-11-06T02:00:00+01:00",
+    "adjudicatario": "Servizi Diagnostici S.r.l. (07246691005)",
+    "importe": 1200000.0,
+    "objeto": "Italia – Sistemas de diagnóstico – FORNITURA IN NOLEGGIO DI UN SISTEMA DIAGNOSTICO COMPOSTO DA KIT E RELATIVA STRUMENTAZIONE PER LA DETERMINAZIONE DI UN PANNELLO DI ANTICORPI, ANTIGENI, ORMONI E ALTRI"
+  },
+  {
     "id": "6eb6b9060c5980baf63721b01b9a07393e5b1e91ff53434cc15c34ce2898732c",
     "numero": "752139-2026",
     "titulo": "ADJUDICADA UE | 28/10/2026 | P.G. Melanie Klein (02782820340) | 246.575.886,00 € | Italia – Servicios de cuidado diurno para niños – Gara europea a procedura aperta ai sensi dell’art. 71 del D.Lgs. n. 30/2023 per l’appalto relativo ai servizi educativi di asilo nido (3-36 mesi) per n. 3 anni educativi, oltre a opzione di proroga per ulteriori n. 2 anni educativi",
@@ -310,6 +322,18 @@
     "adjudicatario": "Analysys Mason (IE6324061F)",
     "importe": 599925.0,
     "objeto": "Bélgica – Servicios de investigación y desarrollo y servicios de consultoría conexos – Study 2026-006 – Supporting the Commission Expert Group on the Security and Resilience of Submarine Cable Infrastructures"
+  },
+  {
+    "id": "ee1109aa057a0885f87fd980296b2180ef2715c706a68a0ba2d19f822b1cd057",
+    "numero": "771859-2026",
+    "titulo": "ADJUDICADA UE | 13/10/2026 | CITANIAS OBRAS Y SERVICIOS, SLU (B15675515) | 7.514.567,39 € | España – Trabajos de construcción de inmuebles de viviendas colectivas – DAS OBRAS DE CONSTRUCIÓN DE DOUS EDIFICIOS PARA 41 VIVENDAS DE PROMOCIÓN PÚBLICA (VPP), GARAXES E ROCHOS NAS PARCELAS M-IIIB-16 E M-IIIB-18 DO PLAN PARCIAL DE SAN PAIO DE NAVIA, VIGO (PONTEVEDRA) POTENCIALMENTE COFINANCIADO CON FONDOS EUROPEOS NO MARCO DO PROGRAMA OPERATIVO FEDER GALICIA 2021-2027.",
+    "url": "https://ted.europa.eu/es/notice/-/detail/771859-2026",
+    "descripcion": "<p><strong>Estado:</strong> ADJUDICADA UE</p><p><strong>Fecha de adjudicación:</strong> 13/10/2026</p><p><strong>Adjudicatario:</strong> CITANIAS OBRAS Y SERVICIOS, SLU (B15675515)</p><p><strong>Importe adjudicado:</strong> 7.514.567,39 €</p><p><strong>Objeto:</strong> España – Trabajos de construcción de inmuebles de viviendas colectivas – DAS OBRAS DE CONSTRUCIÓN DE DOUS EDIFICIOS PARA 41 VIVENDAS DE PROMOCIÓN PÚBLICA (VPP), GARAXES E ROCHOS NAS PARCELAS M-IIIB-16 E M-IIIB-18 DO PLAN PARCIAL DE SAN PAIO DE NAVIA, VIGO (PONTEVEDRA) POTENCIALMENTE COFINANCIADO CON FONDOS EUROPEOS NO MARCO DO PROGRAMA OPERATIVO FEDER GALICIA 2021-2027.</p><p><strong>Número TED:</strong> 771859-2026</p><p><strong>Organismo contratante:</strong> Instituto Gallego de la Vivienda y Suelo- Xunta de Galicia</p><p><strong>País:</strong> ESP</p><p><a href=\"https://ted.europa.eu/es/notice/-/detail/771859-2026\">Abrir adjudicación oficial en TED</a></p>",
+    "fecha_adjudicacion": "2026-10-13T04:00:00+02:00",
+    "fecha_publicacion": "2026-11-06T02:00:00+01:00",
+    "adjudicatario": "CITANIAS OBRAS Y SERVICIOS, SLU (B15675515)",
+    "importe": 7514567.39,
+    "objeto": "España – Trabajos de construcción de inmuebles de viviendas colectivas – DAS OBRAS DE CONSTRUCIÓN DE DOUS EDIFICIOS PARA 41 VIVENDAS DE PROMOCIÓN PÚBLICA (VPP), GARAXES E ROCHOS NAS PARCELAS M-IIIB-16 E M-IIIB-18 DO PLAN PARCIAL DE SAN PAIO DE NAVIA, VIGO (PONTEVEDRA) POTENCIALMENTE COFINANCIADO CON FONDOS EUROPEOS NO MARCO DO PROGRAMA OPERATIVO FEDER GALICIA 2021-2027."
   },
   {
     "id": "92cc72ec1a3709f7e933a2b07641c24763ce128281aa9ca87e75fd3ce074c6c4",
@@ -2028,6 +2052,18 @@
     "objeto": "Italia – Servicios de seguros – Servizi assicurativi inerenti all’acquisto della Copertura assicurativa Infortuni dei Dirigenti per le Società del Gruppo Ferrovie dello Stato Italiane."
   },
   {
+    "id": "deee20b31eb2b716d900cddd511c555ff84b4577896d6beb98f264865bc49859",
+    "numero": "772805-2026",
+    "titulo": "ADJUDICADA UE | 17/09/2026 | TroGrün-Kopp (DE239985986) / Garten- und Landschaftsbau Wenzel GmbH (DE154804939) / Opus Property Services (DE309674202) | 921.661,00 € | Alemania – Servicios hortícolas – Rahmenvereinbarung zur Pflege und Instandhaltung von Pflanz- und anderen Außenflächen der Liegenschaften der TH Köln (2026-2030)",
+    "url": "https://ted.europa.eu/es/notice/-/detail/772805-2026",
+    "descripcion": "<p><strong>Estado:</strong> ADJUDICADA UE</p><p><strong>Fecha de adjudicación:</strong> 17/09/2026</p><p><strong>Adjudicatario:</strong> TroGrün-Kopp (DE239985986) / Garten- und Landschaftsbau Wenzel GmbH (DE154804939) / Opus Property Services (DE309674202)</p><p><strong>Importe adjudicado:</strong> 921.661,00 €</p><p><strong>Objeto:</strong> Alemania – Servicios hortícolas – Rahmenvereinbarung zur Pflege und Instandhaltung von Pflanz- und anderen Außenflächen der Liegenschaften der TH Köln (2026-2030)</p><p><strong>Número TED:</strong> 772805-2026</p><p><strong>Organismo contratante:</strong> Technische Hochschule Köln</p><p><strong>País:</strong> DEU</p><p><a href=\"https://ted.europa.eu/es/notice/-/detail/772805-2026\">Abrir adjudicación oficial en TED</a></p>",
+    "fecha_adjudicacion": "2026-09-17T04:00:00+02:00",
+    "fecha_publicacion": "2026-11-06T02:00:00+01:00",
+    "adjudicatario": "TroGrün-Kopp (DE239985986) / Garten- und Landschaftsbau Wenzel GmbH (DE154804939) / Opus Property Services (DE309674202)",
+    "importe": 921661.0,
+    "objeto": "Alemania – Servicios hortícolas – Rahmenvereinbarung zur Pflege und Instandhaltung von Pflanz- und anderen Außenflächen der Liegenschaften der TH Köln (2026-2030)"
+  },
+  {
     "id": "34c508c2ab10cf6cb47f69644768c10f54f4c6cf292389efe172b22397782f92",
     "numero": "682130-2026",
     "titulo": "ADJUDICADA UE | 17/09/2026 | Claranet II Solutions S.A. (510728189) | 1.845.052,47 € | Portugal – Servicios de suministro de software – Subscrição de licenciamento de software Microsoft Enterprise Agreement",
@@ -2158,6 +2194,18 @@
     "adjudicatario": "UTE CIVIS GLOBAL, S.L.U - MANTEN, S.L. (B36684157 - B36938827)",
     "importe": 3305785.11,
     "objeto": "España – Servicios de alcantarillado – Contrato de servicios para el mantenimiento, conservación y reparación de desperfectos en la red de saneamiento de la Ciudad de A Coruña."
+  },
+  {
+    "id": "08e4a3e0fa06f653edcbe9740991869cc47d25bc2157fdd057b1d9bdf6df83d4",
+    "numero": "771885-2026",
+    "titulo": "ADJUDICADA UE | 16/09/2026 | FRAMATOME SAS (379041395) | 2.960.000,00 € | Chequia – Servicios de desarrollo de software de control industrial – 8397 – REPLACEMENT OF AUTOMATIC REGULATORS INSTRUMENTATION OF SECURED POWER SUPPLY II. CATEGORY,1-4D TEI,II,III – PART ELS",
+    "url": "https://ted.europa.eu/es/notice/-/detail/771885-2026",
+    "descripcion": "<p><strong>Estado:</strong> ADJUDICADA UE</p><p><strong>Fecha de adjudicación:</strong> 16/09/2026</p><p><strong>Adjudicatario:</strong> FRAMATOME SAS (379041395)</p><p><strong>Importe adjudicado:</strong> 2.960.000,00 €</p><p><strong>Objeto:</strong> Chequia – Servicios de desarrollo de software de control industrial – 8397 – REPLACEMENT OF AUTOMATIC REGULATORS INSTRUMENTATION OF SECURED POWER SUPPLY II. CATEGORY,1-4D TEI,II,III – PART ELS</p><p><strong>Número TED:</strong> 771885-2026</p><p><strong>Organismo contratante:</strong> ČEZ, a. s.</p><p><strong>País:</strong> CZE</p><p><a href=\"https://ted.europa.eu/es/notice/-/detail/771885-2026\">Abrir adjudicación oficial en TED</a></p>",
+    "fecha_adjudicacion": "2026-09-16T04:00:00+02:00",
+    "fecha_publicacion": "2026-11-06T02:00:00+01:00",
+    "adjudicatario": "FRAMATOME SAS (379041395)",
+    "importe": 2960000.0,
+    "objeto": "Chequia – Servicios de desarrollo de software de control industrial – 8397 – REPLACEMENT OF AUTOMATIC REGULATORS INSTRUMENTATION OF SECURED POWER SUPPLY II. CATEGORY,1-4D TEI,II,III – PART ELS"
   },
   {
     "id": "a3357a00935876dab07e1f5e1af086f22f1b8476fac37acf13c1f7c501bb9fa1",
@@ -2614,6 +2662,18 @@
     "adjudicatario": "Litostroj Engineering a.s. (25305034)",
     "importe": 10135585.0,
     "objeto": "Eslovaquia – Trabajos de construcción – PSPP RUŽÍN TG2 Modernization"
+  },
+  {
+    "id": "7e9f4d123c8c38de5cde3076012bc15c1232dde0001f3c27b47470b54e979cf8",
+    "numero": "771669-2026",
+    "titulo": "ADJUDICADA UE | 11/09/2026 | MARSH (BE0403276906) / Ethias sa (BE0404484654) | 6.850.000,00 € | Bélgica – Servicios de seguros y pensiones – Insurance in the case of Accident & Natural death of the seconded personnel and accidents at work of the personnel working in Belgium",
+    "url": "https://ted.europa.eu/es/notice/-/detail/771669-2026",
+    "descripcion": "<p><strong>Estado:</strong> ADJUDICADA UE</p><p><strong>Fecha de adjudicación:</strong> 11/09/2026</p><p><strong>Adjudicatario:</strong> MARSH (BE0403276906) / Ethias sa (BE0404484654)</p><p><strong>Importe adjudicado:</strong> 6.850.000,00 €</p><p><strong>Objeto:</strong> Bélgica – Servicios de seguros y pensiones – Insurance in the case of Accident &amp; Natural death of the seconded personnel and accidents at work of the personnel working in Belgium</p><p><strong>Número TED:</strong> 771669-2026</p><p><strong>Organismo contratante:</strong> European Schools</p><p><strong>País:</strong> BEL</p><p><a href=\"https://ted.europa.eu/es/notice/-/detail/771669-2026\">Abrir adjudicación oficial en TED</a></p>",
+    "fecha_adjudicacion": "2026-09-11T04:00:00+02:00",
+    "fecha_publicacion": "2026-11-06T02:00:00+01:00",
+    "adjudicatario": "MARSH (BE0403276906) / Ethias sa (BE0404484654)",
+    "importe": 6850000.0,
+    "objeto": "Bélgica – Servicios de seguros y pensiones – Insurance in the case of Accident & Natural death of the seconded personnel and accidents at work of the personnel working in Belgium"
   },
   {
     "id": "f5d3e5aa0b086ddd50d6b76d918c8aa848f37e4100a55900bff13b0f1beb2944",
@@ -5184,6 +5244,18 @@
     "objeto": "Italia – Servicios sociales – PROCEDURA APERTA AI SENSI DELL'ART. 71 DEL D.LGS 36/2023 E SS MM II PER L'AFFIDAMENTO DEI SERVIZI E DELLE AZIONI DI INTERVENTO DELL'AMBITO TERRITORIALE SOCIALE 4 - URBINO FINALIZZATE ALLA PREVENZIONE DEL DISAGIO E ALLA PROMOZIONE DELL'AGIO SOCIALE DELLE FAMIGLIE, CON OPZIONE DI PROROGA EX ART. 120 COMMA 10 E RIPETIZIONE DI SERVIZI ANALOGHI EX ART 76 COMMA 6 DEL D. LSG 36/2023 E SSMMII"
   },
   {
+    "id": "c088c54c4c95ce016191c3e159679ae01d444e66180f06345db5924c49d60420",
+    "numero": "771538-2026",
+    "titulo": "ADJUDICADA UE | 29/07/2026 | PRESTIBEL - Empresa de Segurança, S.A. (501326456) | 1.427.260,00 € | Portugal – Servicios de vigilancia – CLPQ/2025/04_SE – Aaquisição de serviços de vigilância humana e ligações a central de receção de alarmes dos sistemas de segurança eletrónica da AdRA",
+    "url": "https://ted.europa.eu/es/notice/-/detail/771538-2026",
+    "descripcion": "<p><strong>Estado:</strong> ADJUDICADA UE</p><p><strong>Fecha de adjudicación:</strong> 29/07/2026</p><p><strong>Adjudicatario:</strong> PRESTIBEL - Empresa de Segurança, S.A. (501326456)</p><p><strong>Importe adjudicado:</strong> 1.427.260,00 €</p><p><strong>Objeto:</strong> Portugal – Servicios de vigilancia – CLPQ/2025/04_SE – Aaquisição de serviços de vigilância humana e ligações a central de receção de alarmes dos sistemas de segurança eletrónica da AdRA</p><p><strong>Número TED:</strong> 771538-2026</p><p><strong>Organismo contratante:</strong> AdRA - Águas da Região de Aveiro, SA</p><p><strong>País:</strong> PRT</p><p><a href=\"https://ted.europa.eu/es/notice/-/detail/771538-2026\">Abrir adjudicación oficial en TED</a></p>",
+    "fecha_adjudicacion": "2026-07-29T03:00:00+02:00",
+    "fecha_publicacion": "2026-11-06T02:00:00+01:00",
+    "adjudicatario": "PRESTIBEL - Empresa de Segurança, S.A. (501326456)",
+    "importe": 1427260.0,
+    "objeto": "Portugal – Servicios de vigilancia – CLPQ/2025/04_SE – Aaquisição de serviços de vigilância humana e ligações a central de receção de alarmes dos sistemas de segurança eletrónica da AdRA"
+  },
+  {
     "id": "7138f92df50c393313e8d74aaff254dd7bebcd94b0cf9d5bad2ea4c26514145a",
     "numero": "646677-2026",
     "titulo": "ADJUDICADA UE | 28/07/2026 | RUFFATO MARIO S.R.L. (02005120288) / R.W.S. (00732060280) | 7.076.586,71 € | Italia – Trabajos de restauración – Procedura aperta telematica ex art. 71 e art. 44, comma 1 del d.lgs. n. 36/2023 per l'affidamento dell'appalto integrato di progettazione esecutiva ed esecuzione dei lavori sulla base del progetto definitivo del Recupero del complesso Ex Convento San Giorgio in via del Padovanino.",
@@ -5410,6 +5482,18 @@
     "adjudicatario": "Sabiedrība ar ierobežotu atbildību \"REATON\" (40003015277)",
     "importe": 2130103.99,
     "objeto": "Letonia – Trabajos de construcción – Būvdarbi atbilstoši būvprojektam “Siguldas Mākslu skolas “Baltais flīģelis” pārbūve”"
+  },
+  {
+    "id": "e3723220fb497cb7ab9acf58f3ca911923c6757a063594795dfa3d2f6c882281",
+    "numero": "771842-2026",
+    "titulo": "ADJUDICADA UE | 23/07/2026 | EUROPOLICE SRL (05085400876) | 1.073.401,83 € | Italia – Servicios de vigilancia de inmuebles – Appalto 19/2026 - Affidamento dei servizi di vigilanza privata armata",
+    "url": "https://ted.europa.eu/es/notice/-/detail/771842-2026",
+    "descripcion": "<p><strong>Estado:</strong> ADJUDICADA UE</p><p><strong>Fecha de adjudicación:</strong> 23/07/2026</p><p><strong>Adjudicatario:</strong> EUROPOLICE SRL (05085400876)</p><p><strong>Importe adjudicado:</strong> 1.073.401,83 €</p><p><strong>Objeto:</strong> Italia – Servicios de vigilancia de inmuebles – Appalto 19/2026 - Affidamento dei servizi di vigilanza privata armata</p><p><strong>Número TED:</strong> 771842-2026</p><p><strong>Organismo contratante:</strong> Comune di Milano</p><p><strong>País:</strong> ITA</p><p><a href=\"https://ted.europa.eu/es/notice/-/detail/771842-2026\">Abrir adjudicación oficial en TED</a></p>",
+    "fecha_adjudicacion": "2026-07-23T04:00:00+02:00",
+    "fecha_publicacion": "2026-11-06T02:00:00+01:00",
+    "adjudicatario": "EUROPOLICE SRL (05085400876)",
+    "importe": 1073401.83,
+    "objeto": "Italia – Servicios de vigilancia de inmuebles – Appalto 19/2026 - Affidamento dei servizi di vigilanza privata armata"
   },
   {
     "id": "ef7bd4c4feb6da86aaa8245c95fc48ae04416d1598662d71a51f48ea927f00c1",
@@ -5914,89 +5998,5 @@
     "adjudicatario": "HIDRAULIKA KURELJA d.o.o. (30929005951)",
     "importe": 508000.0,
     "objeto": "Croacia – Portacargas – Višenamjensko vozilo"
-  },
-  {
-    "id": "8fc4ebb90b0f15c39cbfd7fb90f47a92938b2fad161447ec207829b241eba089",
-    "numero": "695518-2026",
-    "titulo": "ADJUDICADA UE | 07/07/2026 | ROVER INFRAESTRUCTURAS, S.A. (A28111607) | 10.387.834,95 € | España – Trabajos de construcción de instalaciones para investigación y ensayos – Redacción de proyecto y construcción de planta piloto de chips fotónicos.",
-    "url": "https://ted.europa.eu/es/notice/-/detail/695518-2026",
-    "descripcion": "<p><strong>Estado:</strong> ADJUDICADA UE</p><p><strong>Fecha de adjudicación:</strong> 07/07/2026</p><p><strong>Adjudicatario:</strong> ROVER INFRAESTRUCTURAS, S.A. (A28111607)</p><p><strong>Importe adjudicado:</strong> 10.387.834,95 €</p><p><strong>Objeto:</strong> España – Trabajos de construcción de instalaciones para investigación y ensayos – Redacción de proyecto y construcción de planta piloto de chips fotónicos.</p><p><strong>Número TED:</strong> 695518-2026</p><p><strong>Organismo contratante:</strong> Rectorado de la Universitat Politècnica de València</p><p><strong>País:</strong> ESP</p><p><a href=\"https://ted.europa.eu/es/notice/-/detail/695518-2026\">Abrir adjudicación oficial en TED</a></p>",
-    "fecha_adjudicacion": "2026-07-07T04:00:00+02:00",
-    "fecha_publicacion": "2026-10-08T04:00:00+02:00",
-    "adjudicatario": "ROVER INFRAESTRUCTURAS, S.A. (A28111607)",
-    "importe": 10387834.95,
-    "objeto": "España – Trabajos de construcción de instalaciones para investigación y ensayos – Redacción de proyecto y construcción de planta piloto de chips fotónicos."
-  },
-  {
-    "id": "34cf99a798299885e9a6d0fcf981592d16eae0530d6c60af3fc396f267529df9",
-    "numero": "708533-2026",
-    "titulo": "ADJUDICADA UE | 07/07/2026 | SIEL CONFECCIONES, S.L. (B80481591) / SAGRES, S.L. (****2899*) / FERMIN, S.L. (B78144474) / INDUSTRIAL ZAPATERA S.A. (A03355450) / Climb Wear S.L. (B84305093) | 729.180,00 € | España – Prendas de vestir, calzado, artículos de viaje y accesorios – La adquisición de prendas, calzado y complementos de uniformidad de las siguientes especialidades de la Guardia Civil: Agrupación de Reserva y Seguridad (ARS), Servicio Marítimo (SERMAR), UAR (Unidad de Acción Rural), Servicio de Desactivación de Explosivos (SEDEX) y la Unidad de Reconocimiento de Subsuelo (URS).",
-    "url": "https://ted.europa.eu/es/notice/-/detail/708533-2026",
-    "descripcion": "<p><strong>Estado:</strong> ADJUDICADA UE</p><p><strong>Fecha de adjudicación:</strong> 07/07/2026</p><p><strong>Adjudicatario:</strong> SIEL CONFECCIONES, S.L. (B80481591) / SAGRES, S.L. (****2899*) / FERMIN, S.L. (B78144474) / INDUSTRIAL ZAPATERA S.A. (A03355450) / Climb Wear S.L. (B84305093)</p><p><strong>Importe adjudicado:</strong> 729.180,00 €</p><p><strong>Objeto:</strong> España – Prendas de vestir, calzado, artículos de viaje y accesorios – La adquisición de prendas, calzado y complementos de uniformidad de las siguientes especialidades de la Guardia Civil: Agrupación de Reserva y Seguridad (ARS), Servicio Marítimo (SERMAR), UAR (Unidad de Acción Rural), Servicio de Desactivación de Explosivos (SEDEX) y la Unidad de Reconocimiento de Subsuelo (URS).</p><p><strong>Número TED:</strong> 708533-2026</p><p><strong>Organismo contratante:</strong> Jefatura de Asuntos Económicos de la Guardia Civil</p><p><strong>País:</strong> ESP</p><p><a href=\"https://ted.europa.eu/es/notice/-/detail/708533-2026\">Abrir adjudicación oficial en TED</a></p>",
-    "fecha_adjudicacion": "2026-07-07T04:00:00+02:00",
-    "fecha_publicacion": "2026-10-14T04:00:00+02:00",
-    "adjudicatario": "SIEL CONFECCIONES, S.L. (B80481591) / SAGRES, S.L. (****2899*) / FERMIN, S.L. (B78144474) / INDUSTRIAL ZAPATERA S.A. (A03355450) / Climb Wear S.L. (B84305093)",
-    "importe": 729180.0,
-    "objeto": "España – Prendas de vestir, calzado, artículos de viaje y accesorios – La adquisición de prendas, calzado y complementos de uniformidad de las siguientes especialidades de la Guardia Civil: Agrupación de Reserva y Seguridad (ARS), Servicio Marítimo (SERMAR), UAR (Unidad de Acción Rural), Servicio de Desactivación de Explosivos (SEDEX) y la Unidad de Reconocimiento de Subsuelo (URS)."
-  },
-  {
-    "id": "bb7def2fd60b07e0bf021a2579add9e9d31848fabda68f5189608274a2dd4a40",
-    "numero": "671236-2026",
-    "titulo": "ADJUDICADA UE | 03/07/2026 | STANTEC (BE0460228079) | 950.750,00 € | Laos – Servicios a empresas: legislación, mercadotecnia, asesoría, selección de personal, imprenta y seguridad – Laos EU Strategic Communication Facility",
-    "url": "https://ted.europa.eu/es/notice/-/detail/671236-2026",
-    "descripcion": "<p><strong>Estado:</strong> ADJUDICADA UE</p><p><strong>Fecha de adjudicación:</strong> 03/07/2026</p><p><strong>Adjudicatario:</strong> STANTEC (BE0460228079)</p><p><strong>Importe adjudicado:</strong> 950.750,00 €</p><p><strong>Objeto:</strong> Laos – Servicios a empresas: legislación, mercadotecnia, asesoría, selección de personal, imprenta y seguridad – Laos EU Strategic Communication Facility</p><p><strong>Número TED:</strong> 671236-2026</p><p><strong>Organismo contratante:</strong> European Commission, INTPA - International Partnerships</p><p><strong>País:</strong> LAO</p><p><a href=\"https://ted.europa.eu/es/notice/-/detail/671236-2026\">Abrir adjudicación oficial en TED</a></p>",
-    "fecha_adjudicacion": "2026-07-03T09:00:00+02:00",
-    "fecha_publicacion": "2026-09-30T04:00:00+02:00",
-    "adjudicatario": "STANTEC (BE0460228079)",
-    "importe": 950750.0,
-    "objeto": "Laos – Servicios a empresas: legislación, mercadotecnia, asesoría, selección de personal, imprenta y seguridad – Laos EU Strategic Communication Facility"
-  },
-  {
-    "id": "fe4c220d96611750d95b8bf5a1ccff7d7db5014d411852a277cd06ceb473e082",
-    "numero": "651763-2026",
-    "titulo": "ADJUDICADA UE | 03/07/2026 | JOUBERT VOYAGES (325 446 003 00015) | 600.000,00 € | Francia – Servicios de reuniones y congresos en hoteles – HEBERGEMENT, RESTAURATION, LOCATION DE SALLES DANS LE CADRE DES SESSIONS NATIONALES DE CONCERTATION DU CONSEIL DE LA FONCTION MILITAIRE DE LA MARINE NATIONALE (CFM-M) POUR LA PERIODE 2026 A 2029.",
-    "url": "https://ted.europa.eu/es/notice/-/detail/651763-2026",
-    "descripcion": "<p><strong>Estado:</strong> ADJUDICADA UE</p><p><strong>Fecha de adjudicación:</strong> 03/07/2026</p><p><strong>Adjudicatario:</strong> JOUBERT VOYAGES (325 446 003 00015)</p><p><strong>Importe adjudicado:</strong> 600.000,00 €</p><p><strong>Objeto:</strong> Francia – Servicios de reuniones y congresos en hoteles – HEBERGEMENT, RESTAURATION, LOCATION DE SALLES DANS LE CADRE DES SESSIONS NATIONALES DE CONCERTATION DU CONSEIL DE LA FONCTION MILITAIRE DE LA MARINE NATIONALE (CFM-M) POUR LA PERIODE 2026 A 2029.</p><p><strong>Número TED:</strong> 651763-2026</p><p><strong>Organismo contratante:</strong> Sous-direction de la préfiguration de l&#x27;agence ministérielle de gestion</p><p><strong>País:</strong> FRA</p><p><a href=\"https://ted.europa.eu/es/notice/-/detail/651763-2026\">Abrir adjudicación oficial en TED</a></p>",
-    "fecha_adjudicacion": "2026-07-03T04:00:00+02:00",
-    "fecha_publicacion": "2026-09-22T04:00:00+02:00",
-    "adjudicatario": "JOUBERT VOYAGES (325 446 003 00015)",
-    "importe": 600000.0,
-    "objeto": "Francia – Servicios de reuniones y congresos en hoteles – HEBERGEMENT, RESTAURATION, LOCATION DE SALLES DANS LE CADRE DES SESSIONS NATIONALES DE CONCERTATION DU CONSEIL DE LA FONCTION MILITAIRE DE LA MARINE NATIONALE (CFM-M) POUR LA PERIODE 2026 A 2029."
-  },
-  {
-    "id": "5faebaac15d45e2621b0e43d4d12e542bb9fba41e47bcb74d22b7b5ec82bc885",
-    "numero": "673213-2026",
-    "titulo": "ADJUDICADA UE | 03/07/2026 | Soc. Coop. Agr. A.T.S. Monte Maggiore (03581091216) / BARRETTA S.R.L. Società Benefit (05659221211) / RE.AM. SRL (01697830717) | 29.929.191,91 € | Italia – Servicios relacionados con la explotación forestal – Proc. n. 4202/AP/2025",
-    "url": "https://ted.europa.eu/es/notice/-/detail/673213-2026",
-    "descripcion": "<p><strong>Estado:</strong> ADJUDICADA UE</p><p><strong>Fecha de adjudicación:</strong> 03/07/2026</p><p><strong>Adjudicatario:</strong> Soc. Coop. Agr. A.T.S. Monte Maggiore (03581091216) / BARRETTA S.R.L. Società Benefit (05659221211) / RE.AM. SRL (01697830717)</p><p><strong>Importe adjudicado:</strong> 29.929.191,91 €</p><p><strong>Objeto:</strong> Italia – Servicios relacionados con la explotación forestal – Proc. n. 4202/AP/2025</p><p><strong>Número TED:</strong> 673213-2026</p><p><strong>Organismo contratante:</strong> Giunta Regionale della Campania - Ufficio Speciale Centrale Acquisti</p><p><strong>País:</strong> ITA</p><p><a href=\"https://ted.europa.eu/es/notice/-/detail/673213-2026\">Abrir adjudicación oficial en TED</a></p>",
-    "fecha_adjudicacion": "2026-07-03T04:00:00+02:00",
-    "fecha_publicacion": "2026-09-30T04:00:00+02:00",
-    "adjudicatario": "Soc. Coop. Agr. A.T.S. Monte Maggiore (03581091216) / BARRETTA S.R.L. Società Benefit (05659221211) / RE.AM. SRL (01697830717)",
-    "importe": 29929191.91,
-    "objeto": "Italia – Servicios relacionados con la explotación forestal – Proc. n. 4202/AP/2025"
-  },
-  {
-    "id": "f2f6c0673ce79fe51b0bf093ed1f6881809cd77342c24adf50566aedbe140db9",
-    "numero": "687500-2026",
-    "titulo": "ADJUDICADA UE | 02/07/2026 | SOCOBU SAS (33274816900015) / SARL VIS BOULONS DISTRIBUTION (34971471700049) | 680.000,00 € | Francia – Herramientas, cerraduras, llaves, bisagras, elementos de sujeción, cadenas y muelles – 26PA002_ACHAT D’OUTILLAGES, DE FOURNITURES ET DE MATERIAUX DE CONSTRUCTION (ROUTIERS ET BATIMENTS) POUR LES SERVICES TECHNIQUES – ANNEE 2025 – LOTS N°1, 5, 6 ET 7 (RELANCE)",
-    "url": "https://ted.europa.eu/es/notice/-/detail/687500-2026",
-    "descripcion": "<p><strong>Estado:</strong> ADJUDICADA UE</p><p><strong>Fecha de adjudicación:</strong> 02/07/2026</p><p><strong>Adjudicatario:</strong> SOCOBU SAS (33274816900015) / SARL VIS BOULONS DISTRIBUTION (34971471700049)</p><p><strong>Importe adjudicado:</strong> 680.000,00 €</p><p><strong>Objeto:</strong> Francia – Herramientas, cerraduras, llaves, bisagras, elementos de sujeción, cadenas y muelles – 26PA002_ACHAT D’OUTILLAGES, DE FOURNITURES ET DE MATERIAUX DE CONSTRUCTION (ROUTIERS ET BATIMENTS) POUR LES SERVICES TECHNIQUES – ANNEE 2025 – LOTS N°1, 5, 6 ET 7 (RELANCE)</p><p><strong>Número TED:</strong> 687500-2026</p><p><strong>Organismo contratante:</strong> Commune de Saint-Joseph</p><p><strong>País:</strong> FRA</p><p><a href=\"https://ted.europa.eu/es/notice/-/detail/687500-2026\">Abrir adjudicación oficial en TED</a></p>",
-    "fecha_adjudicacion": "2026-07-02T06:00:00+02:00",
-    "fecha_publicacion": "2026-10-06T04:00:00+02:00",
-    "adjudicatario": "SOCOBU SAS (33274816900015) / SARL VIS BOULONS DISTRIBUTION (34971471700049)",
-    "importe": 680000.0,
-    "objeto": "Francia – Herramientas, cerraduras, llaves, bisagras, elementos de sujeción, cadenas y muelles – 26PA002_ACHAT D’OUTILLAGES, DE FOURNITURES ET DE MATERIAUX DE CONSTRUCTION (ROUTIERS ET BATIMENTS) POUR LES SERVICES TECHNIQUES – ANNEE 2025 – LOTS N°1, 5, 6 ET 7 (RELANCE)"
-  },
-  {
-    "id": "a39ecaada6879e7ea380cfbabd55cd1c0cc6ce8bfbd1ae85924b570e8c17b17c",
-    "numero": "661170-2026",
-    "titulo": "ADJUDICADA UE | 01/07/2026 | NCLAVE RENEWABLE, S.L. (B96918867) | 657.761,00 € | España – Servicios de reparación y mantenimiento – prj_132344 ADJ DIRECTA NCLAVE",
-    "url": "https://ted.europa.eu/es/notice/-/detail/661170-2026",
-    "descripcion": "<p><strong>Estado:</strong> ADJUDICADA UE</p><p><strong>Fecha de adjudicación:</strong> 01/07/2026</p><p><strong>Adjudicatario:</strong> NCLAVE RENEWABLE, S.L. (B96918867)</p><p><strong>Importe adjudicado:</strong> 657.761,00 €</p><p><strong>Objeto:</strong> España – Servicios de reparación y mantenimiento – prj_132344 ADJ DIRECTA NCLAVE</p><p><strong>Número TED:</strong> 661170-2026</p><p><strong>Organismo contratante:</strong> Enel Green Power España, S.L.</p><p><strong>País:</strong> ESP</p><p><a href=\"https://ted.europa.eu/es/notice/-/detail/661170-2026\">Abrir adjudicación oficial en TED</a></p>",
-    "fecha_adjudicacion": "2026-07-01T04:00:00+02:00",
-    "fecha_publicacion": "2026-09-25T04:00:00+02:00",
-    "adjudicatario": "NCLAVE RENEWABLE, S.L. (B96918867)",
-    "importe": 657761.0,
-    "objeto": "España – Servicios de reparación y mantenimiento – prj_132344 ADJ DIRECTA NCLAVE"
   }
 ]
